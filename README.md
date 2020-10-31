@@ -1,1 +1,1 @@
-# rango
+# rango the django app
